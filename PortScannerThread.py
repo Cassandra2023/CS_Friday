@@ -7,6 +7,8 @@ import socket
 
 # This is a comment from Dim
 
+# This is another comment from David
+
 # a print_lock is what is used to prevent "double" modification of shared variables.
 # this is used so while one thread is using a variable, others cannot access
 # it. Once done, the thread releases the print_lock.
