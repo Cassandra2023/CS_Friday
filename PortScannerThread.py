@@ -7,7 +7,7 @@ import socket
 
 # This is a comment from Dim
 
-# This is another comment from David
+# This is another comment from David.
 
 # Cass to put a comment under here:
 
